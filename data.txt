@@ -1,3 +1,4 @@
 Name: Etienne
 Age: 27
 FavoriteColor: Forestgreen
+Location: Bordeaux, France
